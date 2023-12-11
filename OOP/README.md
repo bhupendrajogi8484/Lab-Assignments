@@ -1,5 +1,5 @@
 ## **Assignment 1:**
- Design a class ‘Complex ‘with data members for real and imaginary part. Provide default and Parameterized constructors. Write a program to perform arithmetic                       operations of two complex numbers
+ Design a class ‘Complex ‘with data members for real and imaginary part. Provide default and Parameterized constructors. Write a program to perform arithmetic operations of two complex numbers
 
  ## **Assignment 2:**
 Identify commonalities and differences between Publication, Book and Magazine classes. Title, Price, Copies are common instance variables and saleCopy is common method. The differences are, Book class has author and orderCopies(). Magazine Class has orderQty, Currentissue, reciveissue(). Write a program to find how many copies of the given books are ordered and display total sale of publication
