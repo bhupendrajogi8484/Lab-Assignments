@@ -1,7 +1,6 @@
 # Lab-Assignments
-**Nam kya bataya?**
+**Juice Pila Do Mosambi Ka🧃**
 
-  **-Bhupendra jogi!**
 <p align="center">
-<a href="https://github.com/bhupendrajogi8484/Lab-Assignments/commits/main"><img src="https://img.shields.io/github/last-commit/bhupendrajogi8484/Lab-Assignments/main"></a>
+<a href="https://github.com/juicepilado/Lab-Assignments/commits/main"><img src="https://img.shields.io/github/last-commit/juicepilado/Lab-Assignments/main"></a>
 </p>
